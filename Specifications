@@ -1,0 +1,11 @@
+<h1>Specifications Document for our arcade styled racing game</h1>
+<h2>The Name of the game</h2>
+TODO:
+<h2>Game Mechanics</h2>
+Preferrably top down. A first person implementation is challenging due to the perspectibe mathematics entailed. Realistic drifts and handling. You play against various "levels" of the cpu until it beats you. Powerups may be implemented at some point in the future
+<h3>Soundtrack</h3>
+The soundtrack will be procedurally generated, and will consist of an upbeat theme.
+<h3>Features</h3>
+Title Screen
+Customizable tracks
+Multiplayer
