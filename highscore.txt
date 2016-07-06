@@ -1,0 +1,10 @@
+Jones,3000
+John Smith,2800
+Jacob,2700
+Bob,2600
+Emily,2500
+Jane,2400
+Caroline,2300
+Joseph,2200
+Tyler,2100
+Samantha,2000
